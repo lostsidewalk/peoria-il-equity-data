@@ -1,12 +1,52 @@
 [
     {
         "business_description": "AFE Construction is a certified Women Owned Small Business (WOSB), Minority Business Enterprise (MBE), Disadvantage Business Enterprise (DBE) and Business Enterprise Program (BEP) company and is a leading Construction Management and  General Contractor in central Illinois.",
-        "certification_information": "Decatur - WBE certification expiring on August 24th, 2025\nDecatur - MBE certification expiring on August 24th, 2025\nChampaign - WBE certification expiring on August 25th, 2025\nChampaign - MBE certification expiring on August 25th, 2025\nChampaign - SBA expiring on August 24th, 2025\nPeoria - SBA expiring on August 24th, 2025\nPeoria - MBE certification expiring on August 25th, 2025\nPeoria - WBE certification expiring on August 25th, 2025",
+        "certification_information": [
+            {
+                "location": "Decatur",
+                "name": "WBE certification",
+                "expiration": "August 24th, 2025"
+            },
+            {
+                "location": "Decatur",
+                "name": "MBE certification",
+                "expiration": "August 24th, 2025"
+            },
+            {
+                "location": "Champaign",
+                "name": "WBE certification",
+                "expiration": "August 25th, 2025"
+            },
+            {
+                "location": "Champaign",
+                "name": "MBE certification",
+                "expiration": "August 25th, 2025"
+            },
+            {
+                "location": "Champaign",
+                "name": "SBA",
+                "expiration": "August 24th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "August 24th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 25th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 25th, 2025"
+            }
+        ],
         "contact": "Monica Arbuckle",
         "email": "monica@afeconstruction.net",
         "fax": "8664912209",
         "location": "P.O. Box 10331, Peoria IL 61612",
-        "locations": null,
         "name": "AFE Construction, LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -21,12 +61,31 @@
     },
     {
         "business_description": "MISC: POWER WASHING\nSERVICES, CARPET CLEANING\nSERVICES, EXTERIOR CLEANING BUILDING\nSERVICES, WINDOW WASHING\nSERVICES, MANAGE CONSULT & PUB REL MISC.\nSERVICES, VEHICLE REPAIR/MAINT-MISC",
-        "certification_information": "IL - DBE certification expiring on July 1st, 2024\nIL BEP - MBE certification expiring on November 23rd, 2023\nIL BEP - WBE certification expiring on November 23rd, 2023\nPeoria - MBE certification expiring on October 9th, 2026",
+        "certification_information": [
+            {
+                "location": "IL",
+                "name": "DBE certification",
+                "expiration": "July 1st, 2024"
+            },
+            {
+                "location": "IL BEP",
+                "name": "MBE certification",
+                "expiration": "November 23rd, 2023"
+            },
+            {
+                "location": "IL BEP",
+                "name": "WBE certification",
+                "expiration": "November 23rd, 2023"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "October 9th, 2026"
+            }
+        ],
         "contact": "Pamela Frazier",
         "email": "allinoneonsite@yahoo.com",
-        "fax": "417-719-1174",
-        "location": null,
-        "locations": "",
+        "fax": "4177191174",
         "name": "All In One Management & Services, Inc.",
         "owner_african_american": true,
         "owner_asian": false,
@@ -34,19 +93,23 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American Female",
-        "phone": "(217)415-8587",
+        "phone": "2174158587",
         "website": "http://www.allinoneonsite.com",
         "page_id": "44175",
         "url": "https://www.eprismsoft.com/business/show?seq=44175"
     },
     {
         "business_description": "Replace engines & transmissions, heating & A/C repair, Tires, suspension & brakes and exhaust, Auto body repair, dent / scratch repair / removal, auto paint repair, paintless dent repair (PDR), bumper repair, and more.",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Rudy Sanchez",
         "email": "amigos.auto.repair1@gmail.com",
-        "fax": "None",
         "location": "1013 N. Orange St., Peoria IL 61606",
-        "locations": null,
         "name": "Amigos 1 Inc--Amigos Auto Repair",
         "owner_african_american": false,
         "owner_asian": false,
@@ -54,59 +117,104 @@
         "owner_hispanic": true,
         "owner_veteran": false,
         "ownership_text": "Hispanic",
-        "phone": "309-671-9981",
-        "website": "None",
+        "phone": "3096719981",
         "page_id": "88501",
         "url": "https://www.eprismsoft.com/business/show?seq=88501"
     },
     {
         "business_description": "A New View Cleaning Service LLC is a residential and commercial cleaning company based in Peoria, Illinois and servicing Peoria County area.  We give our clients quality, reliable, and skilled service where we customize a personalized cleaning regiment that accomodates our customers one-of-a kind needs.  Using eco-friendly cleaning materials will reduce exposure to toxic chemicals.  Knowing that a pristine living and working environment guarantees optimum productivity, allow our company the opportunity to give your facility or home \"A New View\".",
-        "certification_information": "Peoria - SBA expiring on June 22nd, 2026\nPeoria - WBE certification expiring on October 9th, 2026",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "June 22nd, 2026"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "October 9th, 2026"
+            }
+        ],
         "contact": "Stephanie Ross",
-        "email": "ANewViewCleaningServices@gmail.com",
-        "fax": "None",
+        "email": "anewviewcleaningservices@gmail.com",
         "location": "122, Washington IL 61571",
-        "locations": null,
         "name": "A New View Cleaning Service LLC",
-        "owner_african_american": false,
-        "owner_asian": false,
-        "owner_female": false,
-        "owner_hispanic": false,
-        "owner_veteran": false,
-        "ownership_text": "",
-        "phone": "(309)340-3203",
-        "website": "http://ANewViewCleaningService.com",
+        "phone": "3093403203",
+        "website": "http://anewviewcleaningservice.com",
         "page_id": "88232",
         "url": "https://www.eprismsoft.com/business/show?seq=88232"
     },
     {
         "business_description": "The principal business activity of Better 2 Maintain, LLC is Construction/Residential Remodeling.",
-        "certification_information": "Peoria - SBA expiring on August 10th, 2025\nPeoria - MBE certification expiring on August 10th, 2025\nPeoria - WBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Denise Neumann",
         "email": "better2maintain@yahoo.com",
-        "fax": "309-444-4288",
+        "fax": "3094444288",
         "location": "1754 N. Main Street, Washington IL 61571",
-        "locations": null,
         "name": "Better 2 Maintain, LLC",
-        "owner_african_american": false,
-        "owner_asian": false,
-        "owner_female": false,
-        "owner_hispanic": false,
-        "owner_veteran": false,
-        "ownership_text": "",
-        "phone": "309-444-4288",
-        "website": "None",
+        "phone": "3094444288",
         "page_id": "88508",
         "url": "https://www.eprismsoft.com/business/show?seq=88508"
     },
     {
         "business_description": "LANDSCAPING (PLANTING, ETC.)\nSEEDING & SODDING; LANDSCAPING; EROSION CONTROL\n",
-        "certification_information": "IL - DBE certification expiring on March 22nd, 2020\nIL BEP - MBE certification expiring on July 19th, 2019\nDecatur - MBE certification expiring on February 1st, 2025\nChampaign - MBE certification expiring on February 4th, 2025\nPHA - MBE certification expiring on May 7th, 2022\nMDOT - DBE certification expiring on May 21st, 2019\nPeoria - MBE certification expiring on September 19th, 2025",
+        "certification_information": [
+            {
+                "location": "IL",
+                "name": "DBE certification",
+                "expiration": "March 22nd, 2020"
+            },
+            {
+                "location": "IL BEP",
+                "name": "MBE certification",
+                "expiration": "July 19th, 2019"
+            },
+            {
+                "location": "Decatur",
+                "name": "MBE certification",
+                "expiration": "February 1st, 2025"
+            },
+            {
+                "location": "Champaign",
+                "name": "MBE certification",
+                "expiration": "February 4th, 2025"
+            },
+            {
+                "location": "PHA",
+                "name": "MBE certification",
+                "expiration": "May 7th, 2022"
+            },
+            {
+                "location": "MDOT",
+                "name": "DBE certification",
+                "expiration": "May 21st, 2019"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "September 19th, 2025"
+            }
+        ],
         "contact": "Dexter Davis",
         "email": "dexterdavis2@aol.com",
-        "fax": "309-454-3342",
+        "fax": "3094543342",
         "location": "1418 Courtland Ave., Normal IL 61761",
-        "locations": null,
         "name": "BUDDY'S GROUNDS MAINT, INC.",
         "owner_african_american": true,
         "owner_asian": false,
@@ -114,19 +222,22 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American",
-        "phone": "309-824-9211",
-        "website": "None",
+        "phone": "3098249211",
         "page_id": "81923",
         "url": "https://www.eprismsoft.com/business/show?seq=81923"
     },
     {
         "business_description": "Specialty Colombian coffee, growers, importers, sellers: From Farm to Cup.  ",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Marta Vidal",
         "email": "customercare@cafesantarosa.com",
-        "fax": "None",
         "location": "5901 N Prospect Rd Suite 7, Peoria IL 61615",
-        "locations": null,
         "name": "Cafe Santa Rosa LTD",
         "owner_african_american": false,
         "owner_asian": false,
@@ -134,19 +245,28 @@
         "owner_hispanic": true,
         "owner_veteran": false,
         "ownership_text": "Hispanic Female",
-        "phone": "309-214-9255",
-        "website": "http://www.cafesantarosa.CO",
+        "phone": "3092149255",
+        "website": "http://www.cafesantarosa.co",
         "page_id": "88535",
         "url": "https://www.eprismsoft.com/business/show?seq=88535"
     },
     {
         "business_description": "Hello, my name is CalianaG. I am a Voiceover Artist specializing in radio/tv/online advertising, automated systems, storytelling, education tutorials, ASMR, if you need a voice, I can bring your words to life! \n\nI have pricing available for the following:\nVoiceover Only\nVoiceover with Digital Content\nAdd ons include pictures, videos, music.\n\nEach order includes 1 free revision.\n\nI have years of radio/online advertising experience.\n\nWilling to travel.",
-        "certification_information": "Peoria - MBE certification expiring on August 18th, 2025\nPeoria - WBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 18th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Calisha D. Greer",
-        "email": "Calianag1@gmail.com",
-        "fax": "None",
+        "email": "calianag1@gmail.com",
         "location": "7150 N Terra Vista Dr 411, Peoria IL 61614",
-        "locations": null,
         "name": "CalianaG",
         "owner_african_american": true,
         "owner_asian": false,
@@ -154,19 +274,63 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American Female",
-        "phone": "309-210-9113",
-        "website": "http://www.Calianag.com",
+        "phone": "3092109113",
+        "website": "http://www.calianag.com",
         "page_id": "88533",
         "url": "https://www.eprismsoft.com/business/show?seq=88533"
     },
     {
         "business_description": "We offer construction companies final clean, and post-construction cleanup services on their building projects. We've serviced STATE, FEDERAL, and private building projects throughout the State of Illinois.",
-        "certification_information": "IL BEP - MBE certification expiring on November 30th, 2022\nDecatur - WBE certification expiring on August 9th, 2025\nDecatur - MBE certification expiring on August 9th, 2025\nChampaign - WBE certification expiring on August 9th, 2025\nChampaign - MBE certification expiring on August 9th, 2025\nIL BEP - WBE certification expiring on November 30th, 2022\nChampaign - SBA expiring on August 9th, 2025\nPeoria - SBA expiring on August 9th, 2025\nPeoria - MBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "IL BEP",
+                "name": "MBE certification",
+                "expiration": "November 30th, 2022"
+            },
+            {
+                "location": "Decatur",
+                "name": "WBE certification",
+                "expiration": "August 9th, 2025"
+            },
+            {
+                "location": "Decatur",
+                "name": "MBE certification",
+                "expiration": "August 9th, 2025"
+            },
+            {
+                "location": "Champaign",
+                "name": "WBE certification",
+                "expiration": "August 9th, 2025"
+            },
+            {
+                "location": "Champaign",
+                "name": "MBE certification",
+                "expiration": "August 9th, 2025"
+            },
+            {
+                "location": "IL BEP",
+                "name": "WBE certification",
+                "expiration": "November 30th, 2022"
+            },
+            {
+                "location": "Champaign",
+                "name": "SBA",
+                "expiration": "August 9th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "August 9th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Constance Robinson",
-        "email": "Constance@conniescommercialcleaning.com",
-        "fax": "None",
+        "email": "constance@conniescommercialcleaning.com",
         "location": "2601 W Lake Ave, Peoria IL 61615",
-        "locations": null,
         "name": "Connie's Commercial Cleaning Company, LLC",
         "owner_african_american": false,
         "owner_asian": false,
@@ -174,19 +338,43 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "Female",
-        "phone": "309-622-2409",
+        "phone": "3096222409",
         "website": "http://www.conniescommercialcleaning.com",
         "page_id": "88449",
         "url": "https://www.eprismsoft.com/business/show?seq=88449"
     },
     {
         "business_description": "CSE creates digital solutions that fit our customer\u2019s exact needs using the appropriate technology for each project.  Enterprise software, simulation, and cloud development are our core development strengths. We offer 24x7 customer support for our own products and our client's\u200b products. \n",
-        "certification_information": "Decatur - WBE certification expiring on August 19th, 2025\nChampaign - WBE certification expiring on August 19th, 2025\nChampaign - SBA expiring on August 19th, 2025\nPeoria - SBA expiring on August 19th, 2025\nPeoria - WBE certification expiring on August 23rd, 2025",
+        "certification_information": [
+            {
+                "location": "Decatur",
+                "name": "WBE certification",
+                "expiration": "August 19th, 2025"
+            },
+            {
+                "location": "Champaign",
+                "name": "WBE certification",
+                "expiration": "August 19th, 2025"
+            },
+            {
+                "location": "Champaign",
+                "name": "SBA",
+                "expiration": "August 19th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "August 19th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 23rd, 2025"
+            }
+        ],
         "contact": "Renee Gorrell",
         "email": "wbe@csesoftware.com",
-        "fax": "None",
         "location": "316 SW Washington Street STE 300, Peoria IL 61602",
-        "locations": null,
         "name": "CSE Software inc.",
         "owner_african_american": false,
         "owner_asian": false,
@@ -201,12 +389,26 @@
     },
     {
         "business_description": "We are a cupcake and treat business that specialize in making every bite one to remember.",
-        "certification_information": "Peoria - SBA expiring on August 10th, 2025\nPeoria - MBE certification expiring on August 18th, 2025\nPeoria - WBE certification expiring on August 23rd, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 18th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 23rd, 2025"
+            }
+        ],
         "contact": "Toni Young",
         "email": "younger491970@gmail.com",
-        "fax": "None",
         "location": "407 E Pasadena Ave, Peoria IL 61603",
-        "locations": null,
         "name": "Cupcake Diva, LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -215,18 +417,26 @@
         "owner_veteran": false,
         "ownership_text": "African American Female",
         "phone": "3096577609",
-        "website": "None",
         "page_id": "88538",
         "url": "https://www.eprismsoft.com/business/show?seq=88538"
     },
     {
         "business_description": "DH20,LLC is a trucking and hauling business. We provide opportunities for truckers to earn and learn.",
-        "certification_information": "Peoria - SBA expiring on August 9th, 2025\nPeoria - MBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "August 9th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Derrick DeWayne Harris",
         "email": "gd7530@yahoo.com",
-        "fax": "None",
         "location": "1602 S Livingston St, Peoria IL 61605",
-        "locations": null,
         "name": "DH20, LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -235,18 +445,21 @@
         "owner_veteran": false,
         "ownership_text": "African American",
         "phone": "3094126761",
-        "website": "None",
         "page_id": "88485",
         "url": "https://www.eprismsoft.com/business/show?seq=88485"
     },
     {
         "business_description": "We are a medical staffing agency that offers licensed medical staff to facilities with staffing issues. We are a local company with a licensed practical nurse as the owner operator. ",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Kenny Wyatt",
         "email": "kennywyatt@diamondmedicalstaffing.org",
-        "fax": "None",
         "location": "719 E. London Ave, Peoria Heights IL 61616",
-        "locations": null,
         "name": "Diamond Medical Staffing",
         "owner_african_american": true,
         "owner_asian": false,
@@ -254,19 +467,23 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American",
-        "phone": "1-866-687-7309",
+        "phone": "18666877309",
         "website": "http://diamondmedicalstaffing.org",
         "page_id": "88530",
         "url": "https://www.eprismsoft.com/business/show?seq=88530"
     },
     {
         "business_description": "Drummond Construction. LLC is a construction business that provides planning, designing, or building of sewage treatment works projects, stormwater treatment projects, or nonpoint source projects. Construction activities include, but are not limited to, the following: Mowing, snow removal, HVAC and energy efficient installation. Assistance and weatherization support for nonprofits organization are also provided for youth and adults.   ",
-        "certification_information": "Peoria - MBE certification expiring on March 22nd, 2026",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "March 22nd, 2026"
+            }
+        ],
         "contact": "Charles Drummond",
         "email": "drummondcharles9@gmail.com",
-        "fax": "None",
         "location": "1609 S Griswold, Peoria IL 61605",
-        "locations": null,
         "name": "Drummond Construction . LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -274,19 +491,27 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American",
-        "phone": "309-643-2757",
-        "website": "None",
+        "phone": "3096432757",
         "page_id": "88738",
         "url": "https://www.eprismsoft.com/business/show?seq=88738"
     },
     {
         "business_description": "Perform community outreach to disadvantaged families with mentoring, food, clothing, and assistance to avoid unwanted pregnancy or sexually transmitted diseases.",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025\nPeoria - WBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Stephanie Irving",
         "email": "each1reach1peoria@gmail.com",
-        "fax": "None",
         "location": "6407 N Devonshire Dr, Peoria IL 61615",
-        "locations": null,
         "name": "Each1 Reach1 Peoria",
         "owner_african_american": true,
         "owner_asian": false,
@@ -294,19 +519,43 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American Female",
-        "phone": "309-213-0837",
+        "phone": "3092130837",
         "website": "https://www.each1reach1peoria.com/",
         "page_id": "88523",
         "url": "https://www.eprismsoft.com/business/show?seq=88523"
     },
     {
         "business_description": "Provides assessments for local government entities, organizations, and small businesses from a strengths-based perspective, framework of Diversity, Equity & Inclusion (DEI), and trauma-informed care.  Works with clients to create customized plans to enhance employee performance and service delivery. Provides training, coaching, and consulting services for individuals and teams.",
-        "certification_information": "Decatur - WBE certification expiring on June 8th, 2026\nDecatur - MBE certification expiring on June 8th, 2026\nChampaign - WBE certification expiring on June 8th, 2026\nChampaign - MBE certification expiring on June 8th, 2026\nPeoria - MBE certification expiring on June 21st, 2026",
+        "certification_information": [
+            {
+                "location": "Decatur",
+                "name": "WBE certification",
+                "expiration": "June 8th, 2026"
+            },
+            {
+                "location": "Decatur",
+                "name": "MBE certification",
+                "expiration": "June 8th, 2026"
+            },
+            {
+                "location": "Champaign",
+                "name": "WBE certification",
+                "expiration": "June 8th, 2026"
+            },
+            {
+                "location": "Champaign",
+                "name": "MBE certification",
+                "expiration": "June 8th, 2026"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "June 21st, 2026"
+            }
+        ],
         "contact": "Chasity Wells-Armstrong",
         "email": "equitycollaborativellc@gmail.com",
-        "fax": "None",
         "location": "2 Plaza Drive PO Box 5555, Woodridge IL 60517",
-        "locations": null,
         "name": "Equity Collaborative LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -321,32 +570,50 @@
     },
     {
         "business_description": "Engineering and Research Int\u2019l, Inc. (ERI) is a civil engineering firm specializing in pavement management, pavement design, pavement testing, geotechnical engineering, construction inspection, materials testing and Geographic Information Systems (GIS), as well as research and education in these areas.  Since its inception in 1982, ERI has been committed to maintaining superiority in the field of pavement engineering.\n\nERI's staff is well trained in using state-of-the-art mechanistic analysis and design techniques for pavements.  Operating at both project and network level designs, ERI utilizes the concept of automated asset data collection, Nondestructive Deflection Testing (NDT) using Falling Weight Deflectometer (FWD), Ground Penetrating Radar (GPR) and high speed precision laser profiling.  Currently, ERI owns and operates an Automated Distress Vehicle System that gathers digital images directly ahead of the vehicle, in the Right of Way, and downward images on the pavement, along with GPS coordinates, as it travels at highway speeds.  ERI also owns FWDs, GPRs, High Speed Precision Laser Road Profilers and Pavement Skid Friction Test System. The employees of ERI have been involved in the development and implementation of Pavement Management System (PMS) for city streets, highway and airport pavements.  ERI offers a complete range of pavement and material testing services in the following areas for city, municipalities, highway and airports agencies.\n",
-        "certification_information": "Decatur - WBE certification expiring on February 21st, 2025\nChampaign - WBE certification expiring on February 21st, 2025\nPeoria - WBE certification expiring on October 9th, 2026",
+        "certification_information": [
+            {
+                "location": "Decatur",
+                "name": "WBE certification",
+                "expiration": "February 21st, 2025"
+            },
+            {
+                "location": "Champaign",
+                "name": "WBE certification",
+                "expiration": "February 21st, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "October 9th, 2026"
+            }
+        ],
         "contact": "Abbas A Butt",
         "email": "eri@erikuab.com",
-        "fax": "217-356-6347",
+        "fax": "2173566347",
         "location": "1401 Regency Drive, Savoy IL 61874",
-        "locations": null,
         "name": "ERES International, Inc. dba Engineering and Research International, Inc.",
-        "owner_african_american": false,
-        "owner_asian": false,
-        "owner_female": false,
-        "owner_hispanic": false,
-        "owner_veteran": false,
-        "ownership_text": "",
-        "phone": "217-356-5945",
+        "phone": "2173565945",
         "website": "http://www.erikuab.com",
         "page_id": "3665",
         "url": "https://www.eprismsoft.com/business/show?seq=3665"
     },
     {
         "business_description": "Custom made gift baskets, memorial wreaths, and silk flower arrangements for any occasion",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025\nPeoria - WBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Ethel Elizabeth Pates",
         "email": "ethelpates7@gmail.com",
-        "fax": "None",
         "location": "1007 E Melbourne Avenue, Peoria IL 61603",
-        "locations": null,
         "name": "Ethel Elizabeth Pates Beauty of Gifts",
         "owner_african_american": true,
         "owner_asian": false,
@@ -354,19 +621,33 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American Female",
-        "phone": "309-430-9880",
+        "phone": "3094309880",
         "website": "http://www.yourlivesmatteroutreachministry.webador.com",
         "page_id": "88521",
         "url": "https://www.eprismsoft.com/business/show?seq=88521"
     },
     {
         "business_description": "We create iced beverages that are like no other. From individuals orders to events, we have you covered. Ask about of drinks, treats, carnival style food and more. We are the home  of Fun Ice, Adult Ice, Nothing But The Dogs, Taste Seasoning and more.",
-        "certification_information": "Peoria - SBA expiring on August 10th, 2025\nPeoria - MBE certification expiring on August 10th, 2025\nPeoria - WBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "ShaNara Harris",
         "email": "royaltysfunice@gmail.com",
-        "fax": "None",
         "location": "1906 W Detweiller Dr Suite 205, Peoria IL 61615",
-        "locations": null,
         "name": "Fire & Ice - Royalty's Fun Ice",
         "owner_african_american": true,
         "owner_asian": false,
@@ -375,38 +656,52 @@
         "owner_veteran": false,
         "ownership_text": "African American Female",
         "phone": "3094203475",
-        "website": "https://www.facebook.com/FireFunIce",
+        "website": "https://www.facebook.com/firefunice",
         "page_id": "88522",
         "url": "https://www.eprismsoft.com/business/show?seq=88522"
     },
     {
         "business_description": "Foundational Skills Progress thru Projects (FSPP) is a 16-week Life Construction Intervention Development Program targeted towards at-risk young adults ages 18 to 26. The program is designed to engage, empower, and support each program participant with a set of foundational skills to become individuals with the mind sets and vocational skill sets needed to succeed in life. Through the completion of community service projects, basic hands-on home maintenance and repair services skills development, peer collaboration, Jobs for Life exercises, and successful completion of the five (5) \u201cFoundational Skills\u201d core components: 1.) Conflict Management, 2.) Integrity & Ethics, 3.) Money Management, 4.) Teamwork & Collaboration, and 5.) Time Management, and adult mentoring. Through FSPP program participants will transform learning to become gainfully employed, self-supporting, productive individuals. Each 16-week program session will include several speaker presentations and field trips.",
-        "certification_information": "Peoria - SBA expiring on August 31st, 2025\nPeoria - MBE certification expiring on September 1st, 2025\nPeoria - WBE certification expiring on September 1st, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "August 31st, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "September 1st, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "September 1st, 2025"
+            }
+        ],
         "contact": "Denise M. Neumann",
-        "email": "None",
-        "fax": "None",
         "location": "1754 N. Main Street, Washington IL 61571",
-        "locations": null,
         "name": "Foundational Skills Progress thru Projects, LLC",
-        "owner_african_american": false,
-        "owner_asian": false,
-        "owner_female": false,
-        "owner_hispanic": false,
-        "owner_veteran": false,
-        "ownership_text": "",
-        "phone": "None",
-        "website": "None",
         "page_id": "88596",
         "url": "https://www.eprismsoft.com/business/show?seq=88596"
     },
     {
         "business_description": "Mechanical Contractor specializing in Commercial Plumbing, Process Piping, Site Utilities, Hydro Excavation and Line Stops",
-        "certification_information": "Champaign - WBE certification expiring on September 14th, 2025\nPeoria - WBE certification expiring on September 29th, 2025",
+        "certification_information": [
+            {
+                "location": "Champaign",
+                "name": "WBE certification",
+                "expiration": "September 14th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "September 29th, 2025"
+            }
+        ],
         "contact": "Tammy Rich Stimson",
-        "email": "None",
-        "fax": "309-447-6500",
+        "fax": "3094476500",
         "location": "204 S. Perry St., Deer Creek IL 61733",
-        "locations": null,
         "name": "G.A. Rich & Sons, Inc.",
         "owner_african_american": false,
         "owner_asian": false,
@@ -414,19 +709,33 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "Female",
-        "phone": "309-447-6231",
+        "phone": "3094476231",
         "website": "http://garich.com",
         "page_id": "88608",
         "url": "https://www.eprismsoft.com/business/show?seq=88608"
     },
     {
         "business_description": "Hairadox LLC is a certified SDVOSB and EDWOSB that provides training, education, recreational services, cosmetic arts, office supplies and safety products.",
-        "certification_information": "Peoria - SBA expiring on August 10th, 2025\nPeoria - MBE certification expiring on August 18th, 2025\nPeoria - WBE certification expiring on August 23rd, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 18th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 23rd, 2025"
+            }
+        ],
         "contact": "Aishah Bilal-Ali",
         "email": "hairadox1@gmail.com",
-        "fax": "None",
         "location": "7012 N AYCLIFFE DRIVE, PEORIA IL 61614",
-        "locations": null,
         "name": "Hairadox LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -441,12 +750,51 @@
     },
     {
         "business_description": "Janitorial Cleaning Service ",
-        "certification_information": "Decatur - WBE certification expiring on August 25th, 2025\nDecatur - MBE certification expiring on August 25th, 2025\nChampaign - WBE certification expiring on August 25th, 2025\nChampaign - MBE certification expiring on August 25th, 2025\nChampaign - SBA expiring on August 25th, 2025\nPeoria - SBA expiring on August 25th, 2025\nPeoria - MBE certification expiring on September 1st, 2025\nPeoria - WBE certification expiring on September 1st, 2025",
+        "certification_information": [
+            {
+                "location": "Decatur",
+                "name": "WBE certification",
+                "expiration": "August 25th, 2025"
+            },
+            {
+                "location": "Decatur",
+                "name": "MBE certification",
+                "expiration": "August 25th, 2025"
+            },
+            {
+                "location": "Champaign",
+                "name": "WBE certification",
+                "expiration": "August 25th, 2025"
+            },
+            {
+                "location": "Champaign",
+                "name": "MBE certification",
+                "expiration": "August 25th, 2025"
+            },
+            {
+                "location": "Champaign",
+                "name": "SBA",
+                "expiration": "August 25th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "August 25th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "September 1st, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "September 1st, 2025"
+            }
+        ],
         "contact": "Dashina Austin",
         "email": "ofilhearts@gmail.com",
-        "fax": "None",
         "location": "4022 W Courtland St, Peoria IL 61615",
-        "locations": null,
         "name": "Heart Of Illinois Cleaning  LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -454,19 +802,22 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American Female",
-        "phone": "309-431-1720",
+        "phone": "3094311720",
         "website": "http://cleaningheart.com",
         "page_id": "47188",
         "url": "https://www.eprismsoft.com/business/show?seq=47188"
     },
     {
         "business_description": "Firearm instruction (safety and license) training.\n\nVoiceover for commercial, training, etc.",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Barry Anderson",
         "email": "hce4safety@gmail.com",
-        "fax": "None",
-        "location": null,
-        "locations": "",
         "name": "Higher Calling Enterprises, LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -474,19 +825,33 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American",
-        "phone": "309-360-5500",
-        "website": "None",
+        "phone": "3093605500",
         "page_id": "88528",
         "url": "https://www.eprismsoft.com/business/show?seq=88528"
     },
     {
         "business_description": "Contract School and Office Furnishings",
-        "certification_information": "Decatur - WBE certification expiring on December 20th, 2025\nChampaign - WBE certification expiring on December 21st, 2025\nPeoria - WBE certification expiring on January 23rd, 2026",
+        "certification_information": [
+            {
+                "location": "Decatur",
+                "name": "WBE certification",
+                "expiration": "December 20th, 2025"
+            },
+            {
+                "location": "Champaign",
+                "name": "WBE certification",
+                "expiration": "December 21st, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "January 23rd, 2026"
+            }
+        ],
         "contact": "Deborah Born",
         "email": "customerservice@illinisupply.com",
-        "fax": "217-877-6646",
+        "fax": "2178776646",
         "location": "111 Illini Drive, Forsyth IL 62535",
-        "locations": null,
         "name": "Illini Supply, Inc.",
         "owner_african_american": false,
         "owner_asian": false,
@@ -494,19 +859,23 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "Female",
-        "phone": "217-877-6551",
+        "phone": "2178776551",
         "website": "http://www.illinisupply.com",
         "page_id": "623",
         "url": "https://www.eprismsoft.com/business/show?seq=623"
     },
     {
         "business_description": "Language translation and interpretation services",
-        "certification_information": "Peoria - MBE certification expiring on September 19th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "September 19th, 2025"
+            }
+        ],
         "contact": "HEBER L VIDAL",
         "email": "interservices@comcast.net",
-        "fax": "None",
         "location": "4723 EDGEWOOD DR, PEORIA IL 61615",
-        "locations": null,
         "name": "Interservices Company of Illinois",
         "owner_african_american": false,
         "owner_asian": false,
@@ -515,18 +884,26 @@
         "owner_veteran": false,
         "ownership_text": "Hispanic",
         "phone": "3092149247",
-        "website": "None",
         "page_id": "88536",
         "url": "https://www.eprismsoft.com/business/show?seq=88536"
     },
     {
         "business_description": "iSincerelyWish Candle Company is an Illinois-based fragrance and 100% pure soy wax candle company owned, operated, and hand-poured by Lanada Cunningham. Our candles are charged, cleansed, and sent to customers with positive intentions. Scented candles can help you relax, feel calm, energized, and productive.\n\nThe owner of iSincerelyWish Candle Co has decided to mix candle-making, a fun team building activity with fundraising, to help local organizations in the Central Illinois Area. The fundraising opportunity is open to any school, religious group, sports team, community organization, or charitable organization.\n\nOur company also offers basic candle-making classes to the youth to teach them entry-level fundamentals of running their own candle company as young entrepreneurs. iSincerelyWish is here to help you Make Candles for your Cause!\n\nIf you enjoy natural aroma-driven mood enhancers, these candles are suitable for you!",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025\nPeoria - WBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "iSincerelyWish Candles Co",
         "email": "isincerelywishcandles@gmail.com",
-        "fax": "None",
         "location": "2721 W Nebraska Ave, Peoria IL 61604",
-        "locations": null,
         "name": "iSincerelyWish Candle Co",
         "owner_african_american": true,
         "owner_asian": false,
@@ -541,12 +918,16 @@
     },
     {
         "business_description": "We are an interactive do it yourself content creation studio where customers can utilize over 26 different themed booths to take picture, create brand content, social media content.",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Johnny Jorden",
         "email": "info@itsavibepeoria.com",
-        "fax": "None",
         "location": "2200 W War Memorial Drive CL02, Peoria IL 61613",
-        "locations": null,
         "name": "ITS A VIBE SELFIE STUDIO",
         "owner_african_american": true,
         "owner_asian": false,
@@ -561,12 +942,50 @@
     },
     {
         "business_description": "The primary functions of this business are: Project Management, Freight Movement, Freight Logistics, Carrier Support Services, sub- contracting.\n",
-        "certification_information": "Decatur - WBE certification expiring on June 11th, 2025\nDecatur - MBE certification expiring on May 2nd, 2025\nChampaign - WBE certification expiring on May 2nd, 2025\nChampaign - MBE certification expiring on May 2nd, 2025\nChampaign - SBA expiring on July 19th, 2025\nPeoria - SBA expiring on October 20th, 2025\nPeoria - MBE certification expiring on September 1st, 2025\nPeoria - WBE certification expiring on September 1st, 2025",
+        "certification_information": [
+            {
+                "location": "Decatur",
+                "name": "WBE certification",
+                "expiration": "June 11th, 2025"
+            },
+            {
+                "location": "Decatur",
+                "name": "MBE certification",
+                "expiration": "May 2nd, 2025"
+            },
+            {
+                "location": "Champaign",
+                "name": "WBE certification",
+                "expiration": "May 2nd, 2025"
+            },
+            {
+                "location": "Champaign",
+                "name": "MBE certification",
+                "expiration": "May 2nd, 2025"
+            },
+            {
+                "location": "Champaign",
+                "name": "SBA",
+                "expiration": "July 19th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "October 20th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "September 1st, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "September 1st, 2025"
+            }
+        ],
         "contact": "Christina Benton",
         "email": "info@jbtransportlog.com",
-        "fax": "None",
-        "location": null,
-        "locations": "",
         "name": "JB Transportation and Logistics, LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -581,12 +1000,16 @@
     },
     {
         "business_description": "Traffic Control Company in Central IL",
-        "certification_information": "Peoria - WBE certification expiring on March 22nd, 2026",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "March 22nd, 2026"
+            }
+        ],
         "contact": "Jordan Dietrich",
         "email": "jordan@jd-traffic.com",
-        "fax": "None",
         "location": "7327 N Galena Road, Peoria IL 61615",
-        "locations": null,
         "name": "JD Traffic,Inc",
         "owner_african_american": false,
         "owner_asian": false,
@@ -594,19 +1017,47 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "Female",
-        "phone": "309-966-4494",
-        "website": "None",
+        "phone": "3099664494",
         "page_id": "42894",
         "url": "https://www.eprismsoft.com/business/show?seq=42894"
     },
     {
         "business_description": "Commercial Foodservice Equipment Sales, Installations, and Repairs.",
-        "certification_information": "Decatur - WBE certification expiring on August 26th, 2025\nChampaign - WBE certification expiring on August 26th, 2025\nIL BEP - WBE certification expiring on August 23rd, 2023\nChampaign - SBA expiring on August 26th, 2025\nPeoria - SBA expiring on August 26th, 2025\nPeoria - WBE certification expiring on September 1st, 2025",
+        "certification_information": [
+            {
+                "location": "Decatur",
+                "name": "WBE certification",
+                "expiration": "August 26th, 2025"
+            },
+            {
+                "location": "Champaign",
+                "name": "WBE certification",
+                "expiration": "August 26th, 2025"
+            },
+            {
+                "location": "IL BEP",
+                "name": "WBE certification",
+                "expiration": "August 23rd, 2023"
+            },
+            {
+                "location": "Champaign",
+                "name": "SBA",
+                "expiration": "August 26th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "August 26th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "September 1st, 2025"
+            }
+        ],
         "contact": "Dallas Young",
         "email": "dyoung@jmsinc.net",
-        "fax": "309-346-1923",
-        "location": null,
-        "locations": "",
+        "fax": "3093461923",
         "name": "Johnson Mechanical Service, Inc.",
         "owner_african_american": false,
         "owner_asian": false,
@@ -614,19 +1065,23 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "Female",
-        "phone": "309-346-3434",
+        "phone": "3093463434",
         "website": "http://www.johnsonfoodservice.com",
         "page_id": "44080",
         "url": "https://www.eprismsoft.com/business/show?seq=44080"
     },
     {
         "business_description": "Law'N Order Academy seeks to develop a beloved community by providing mental health support, strong leadership, resources and opportunities. Our goal is to put individuals first through our mentorship program, survivors support, re - entry and workforce development utilizing the trauma informed care approach. \n",
-        "certification_information": "Peoria - MBE certification expiring on March 9th, 2026",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "March 9th, 2026"
+            }
+        ],
         "contact": "Lueshand Nunn",
         "email": "lawnorderacademy@yahoo.com",
-        "fax": "None",
         "location": "1825 N. New York, Peoria IL 61603",
-        "locations": null,
         "name": "Law' N Order Academy INC.",
         "owner_african_american": true,
         "owner_asian": false,
@@ -634,19 +1089,22 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American Female",
-        "phone": "309-648-7769",
-        "website": "None",
+        "phone": "3096487769",
         "page_id": "88728",
         "url": "https://www.eprismsoft.com/business/show?seq=88728"
     },
     {
         "business_description": "Law office, representing poor and disabled persons.",
-        "certification_information": "Peoria - WBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Susan O'Neal",
         "email": "susan@attorneysusanoneal.com",
-        "fax": "None",
         "location": "456 Fulton Street Suite 140, Peoria IL 61602",
-        "locations": null,
         "name": "Law Office of Susan O'Neal",
         "owner_african_american": false,
         "owner_asian": false,
@@ -654,19 +1112,28 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "Female",
-        "phone": "(309) 412-9500",
+        "phone": "3094129500",
         "website": "http://www.attorneysusanoneal.com",
         "page_id": "88527",
         "url": "https://www.eprismsoft.com/business/show?seq=88527"
     },
     {
         "business_description": "LMMHM CONSULTING, LLC provides marketing services.",
-        "certification_information": "Peoria - SBA expiring on January 21st, 2026\nPeoria - MBE certification expiring on January 23rd, 2026",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "January 21st, 2026"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "January 23rd, 2026"
+            }
+        ],
         "contact": "Gregory Wilson",
         "email": "greg.wilson513@gmail.com",
-        "fax": "None",
         "location": "1206 N. Flora Ave, Peoria IL 61606",
-        "locations": null,
         "name": "LMMHM CONSULTING, LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -674,19 +1141,26 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American",
-        "phone": "513-578-4409",
-        "website": "None",
+        "phone": "5135784409",
         "page_id": "88690",
         "url": "https://www.eprismsoft.com/business/show?seq=88690"
     },
     {
         "business_description": "Print & Design studio located in North Peoria. Lost Art specializes in graphic design, screen print, print marketing, event branding, stationery, promotions, and small to mid-size format.",
-        "certification_information": "Peoria - SBA expiring on August 10th, 2025\nPeoria - WBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Danielle Laroche",
         "email": "hello@lostartdesigns.com",
-        "fax": "None",
-        "location": null,
-        "locations": "",
         "name": "Lost Art Design & Print, LTD.",
         "owner_african_american": false,
         "owner_asian": false,
@@ -694,19 +1168,23 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "Female",
-        "phone": "309-265-0547",
+        "phone": "3092650547",
         "website": "http://www.lostartdesigns.com",
         "page_id": "88511",
         "url": "https://www.eprismsoft.com/business/show?seq=88511"
     },
     {
         "business_description": "selling mattresses 50%-80% below retail. Same day delivery. $1 down financing.",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Lamont Carroll",
         "email": "lamontcarroll69@gmail.com",
-        "fax": "None",
         "location": "3915 n sheridan rd, peoria IL 61604",
-        "locations": null,
         "name": "Mattress by Appointment Peoria",
         "owner_african_american": false,
         "owner_asian": false,
@@ -715,18 +1193,21 @@
         "owner_veteran": true,
         "ownership_text": "Veteran",
         "phone": "3099896852",
-        "website": "None",
         "page_id": "88519",
         "url": "https://www.eprismsoft.com/business/show?seq=88519"
     },
     {
         "business_description": "NAKA, a minority-owned company, headquartered in Hauppauge, NY, is a leading North American IT solutions provider focused on Assessments, Cybersecurity, Managed Services, Strategic Consulting, Staffing Services, and Cloud Enablement. We deliver this technology expertise through a full life cycle model of professional, managed, and support services.",
-        "certification_information": "Peoria - MBE certification expiring on January 23rd, 2026",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "January 23rd, 2026"
+            }
+        ],
         "contact": "Anil Jagtiani",
         "email": "lcm@nakatech.com",
-        "fax": "None",
         "location": "120 Commerce Drive Suite 106, Hauppauge NY 11788",
-        "locations": null,
         "name": "Naka Technologies, LLC.",
         "owner_african_american": false,
         "owner_asian": true,
@@ -734,19 +1215,23 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "Asian",
-        "phone": "646-921-5780",
+        "phone": "6469215780",
         "website": "http://www.nakatech.com",
         "page_id": "71463",
         "url": "https://www.eprismsoft.com/business/show?seq=71463"
     },
     {
         "business_description": "Art & Photography\nHealth & Beauty Product provider\nSpiritual Guidance & Counseling",
-        "certification_information": "Peoria - WBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Kathlyn Reed",
         "email": "nvybezonly@gmail.com",
-        "fax": "None",
         "location": "411 W. Willcox, Peoria IL 61604",
-        "locations": null,
         "name": "Natural Vybez Only",
         "owner_african_american": true,
         "owner_asian": false,
@@ -755,18 +1240,21 @@
         "owner_veteran": false,
         "ownership_text": "African American Female",
         "phone": "3093403037",
-        "website": "None",
         "page_id": "88529",
         "url": "https://www.eprismsoft.com/business/show?seq=88529"
     },
     {
         "business_description": "Nerevu Group (pronounced {nay-RAY-voo}) is a data analytics firm that helps organizations uncover the insights hidden in their real-time data. With a focus on development, data intelligence, and data strategy, we usher our clients into the data-driven future by automating manual processes, simplifying business analytics, and integrating data silos.\n\n",
-        "certification_information": "Peoria - MBE certification expiring on August 18th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 18th, 2025"
+            }
+        ],
         "contact": "Reuben Cummings",
         "email": "rcummings@nerevu.com",
-        "fax": "None",
         "location": "820 SW Adams St Suite C Suite C, Peoria IL 61602",
-        "locations": null,
         "name": "Nerevu Group, LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -781,12 +1269,27 @@
     },
     {
         "business_description": "Paint Store ",
-        "certification_information": "Decatur - WBE certification expiring on October 5th, 2026\nChampaign - WBE certification expiring on August 8th, 2025\nPeoria - WBE certification expiring on October 9th, 2026",
+        "certification_information": [
+            {
+                "location": "Decatur",
+                "name": "WBE certification",
+                "expiration": "October 5th, 2026"
+            },
+            {
+                "location": "Champaign",
+                "name": "WBE certification",
+                "expiration": "August 8th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "October 9th, 2026"
+            }
+        ],
         "contact": "Kate Lyons",
         "email": "nickspaints@gmail.com",
         "fax": "2173560640",
         "location": "110 W John St, Champaign IL 61820",
-        "locations": null,
         "name": "Nick's Paints",
         "owner_african_american": false,
         "owner_asian": false,
@@ -801,12 +1304,16 @@
     },
     {
         "business_description": "Retail store offering gifts, art, and home products.  Online store on website.\n\nFor holidays packages are available for large purchases and in-person delivery to downtown Peoria.  We also ship anywhere in the U.S.",
-        "certification_information": "Peoria - WBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Susan O'Neal",
         "email": "skoneal90@gmail.com",
-        "fax": "None",
         "location": "456 Fulton Street Suite 182, Peoria IL 61602",
-        "locations": null,
         "name": "Origin Repurposed, LLC",
         "owner_african_american": false,
         "owner_asian": false,
@@ -814,19 +1321,28 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "Female",
-        "phone": "(309) 339-8378",
+        "phone": "3093398378",
         "website": "http://www.originrepurposed.com",
         "page_id": "88526",
         "url": "https://www.eprismsoft.com/business/show?seq=88526"
     },
     {
         "business_description": "Pamesh soft play is a Peoria, IL base  kids entertainment mobile Soft Play set up service. We cater to kids ages 1-5 for Soft Play equipment rentals. Our offering includes but not limited to\n1. Bouncy House\n2. Bouncy Animals\n3. Ball Pit\n4. Slides\n5. Bumper Cars, etc",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025\nPeoria - WBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Lamesha Turner",
         "email": "bookpamesh@gmail.com",
-        "fax": "None",
         "location": "3120 W Lake Ave Apt B, Peoria IL 61615",
-        "locations": null,
         "name": "Pamesh Soft Play LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -841,12 +1357,21 @@
     },
     {
         "business_description": "Custom designs for personal and business use. Including but not limited to: t-shirts, pillows, planners, journals, key chains, cups, and more. ",
-        "certification_information": "Peoria - MBE certification expiring on September 24th, 2025\nPeoria - WBE certification expiring on September 24th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "September 24th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "September 24th, 2025"
+            }
+        ],
         "contact": "Malinda Woods",
         "email": "malindawoodz@yahoo.ie",
-        "fax": "None",
         "location": "2401 W. Moss Ave 102, West Peoria IL 61604",
-        "locations": null,
         "name": "Passie Custom Designs",
         "owner_african_american": true,
         "owner_asian": false,
@@ -854,19 +1379,23 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American Female",
-        "phone": "309-231-0854",
-        "website": "None",
+        "phone": "3092310854",
         "page_id": "88629",
         "url": "https://www.eprismsoft.com/business/show?seq=88629"
     },
     {
         "business_description": "General Contractor",
-        "certification_information": "Peoria - WBE certification expiring on January 23rd, 2026",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "January 23rd, 2026"
+            }
+        ],
         "contact": "Tom Meischner",
         "email": "info@peoriametro.com",
-        "fax": "309-671-1426",
+        "fax": "3096711426",
         "location": "1925 S. Darst St., Peoria IL 61607",
-        "locations": null,
         "name": "Peoria Metro Construction, Inc.",
         "owner_african_american": false,
         "owner_asian": false,
@@ -874,19 +1403,23 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "Female",
-        "phone": "309-671-1466",
+        "phone": "3096711466",
         "website": "http://www.peoriametro.com",
         "page_id": "77097",
         "url": "https://www.eprismsoft.com/business/show?seq=77097"
     },
     {
         "business_description": "Luxury event essentials",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Johnny and LaToya Jorden",
         "email": "info@premiereventsandrentals.com",
-        "fax": "None",
         "location": "2200 W War Memorial Dr CL02, Peoria IL 61613",
-        "locations": null,
         "name": "Premier Events and Rentals LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -894,19 +1427,28 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American",
-        "phone": "309-989-7907",
+        "phone": "3099897907",
         "website": "http://linktr.ee/premiereventsandrentals",
         "page_id": "88499",
         "url": "https://www.eprismsoft.com/business/show?seq=88499"
     },
     {
         "business_description": "Roofing\nExteriors\nGutters\nsiding",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025\nPeoria - WBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Alejandra Ruiz",
-        "email": "Rainforcing.roof2022@gmail.com",
-        "fax": "None",
+        "email": "rainforcing.roof2022@gmail.com",
         "location": "1216 N Frink st, Peoria IL 61606",
-        "locations": null,
         "name": "Rainforcing Roofing and Exteriors",
         "owner_african_american": false,
         "owner_asian": false,
@@ -915,18 +1457,22 @@
         "owner_veteran": false,
         "ownership_text": "Hispanic Female",
         "phone": "3096482669",
-        "website": "None",
         "page_id": "88512",
         "url": "https://www.eprismsoft.com/business/show?seq=88512"
     },
     {
         "business_description": "IRONWORK AND GENERAL CONSTRUCTION",
-        "certification_information": "Peoria - WBE certification expiring on January 23rd, 2026",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "January 23rd, 2026"
+            }
+        ],
         "contact": "Bridget Booker",
-        "email": "BRIDGET@REIGNCONSTRUCTIONINC.COM",
-        "fax": "309-495-7996",
+        "email": "bridget@reignconstructioninc.com",
+        "fax": "3094957996",
         "location": "801 W. MAIN ST STE A118, Peoria IL 61606",
-        "locations": null,
         "name": "Reign Construction",
         "owner_african_american": true,
         "owner_asian": false,
@@ -934,19 +1480,23 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American Female",
-        "phone": "309-495-7982 OFFICE 309-750-4846 CELL",
-        "website": "http://WWW.REIGNCONSTRUCTIONINC.COM",
+        "phone": "30949579823097504846",
+        "website": "http://www.reignconstructioninc.com",
         "page_id": "2412",
         "url": "https://www.eprismsoft.com/business/show?seq=2412"
     },
     {
         "business_description": "Our goal is to provide excellent services to our clients by creating beautiful lawns and landscapes. Our continued plan is to grow our business to provide better opportunities for our employees, serve more clients and improve the community we live in. ",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Vida Johnson",
         "email": "support@dvsnow.com",
-        "fax": "None",
         "location": "5326 N Rothmere Dr, Peoria IL 61615",
-        "locations": null,
         "name": "Reliable Lawn Care",
         "owner_african_american": true,
         "owner_asian": false,
@@ -961,12 +1511,15 @@
     },
     {
         "business_description": "Reservations is a startup catering company founded initially in 2018 and incorporated in 2022 by Owner Jeremy Washum. \n\nPreviously servicing groups of up to 70 guests and currently in contract for a group of 250 guests, Reservations takes pride in utilizing the freshest ingredients with some being sourced from local producers when available with artisan techniques in order to not compromise quality. \n\nWe currently provide on and offsite catering which includes food as well as hospitality services as needed to smaller private functions and larger, public events. We have a company goal to extend the brand to a small brick and mortar location and a mobile unit that will both heavily utilize web and app technology to efficiently drive daily traffic to maintain the highest level of quality of our menu selections. Each extension of Reservations will offer brand familiar menu items while also providing different culinary experiences at various functions.  We believe that creating a strong brand will allow for cross marketing between each extension while also reducing the potential for over saturation.",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Jeremy Washum",
         "email": "reservations.eats@gmail.com",
-        "fax": "None",
-        "location": null,
-        "locations": "",
         "name": "Reservations LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -974,39 +1527,47 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American",
-        "phone": "973-281-6463",
-        "website": "None",
+        "phone": "9732816463",
         "page_id": "88506",
         "url": "https://www.eprismsoft.com/business/show?seq=88506"
     },
     {
         "business_description": "Real estate investment",
-        "certification_information": "Peoria - MBE certification expiring on September 29th, 2025\nPeoria - WBE certification expiring on September 29th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "September 29th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "September 29th, 2025"
+            }
+        ],
         "contact": "Datikka T Peebles",
-        "email": "None",
-        "fax": "None",
         "location": "PO Box 9177, Peoria IL 61612",
-        "locations": null,
         "name": "Rising Edge Investments LLC",
-        "owner_african_american": false,
-        "owner_asian": false,
-        "owner_female": false,
-        "owner_hispanic": false,
-        "owner_veteran": false,
-        "ownership_text": "",
-        "phone": "None",
-        "website": "None",
         "page_id": "88630",
         "url": "https://www.eprismsoft.com/business/show?seq=88630"
     },
     {
         "business_description": "Gourmet Popcorn. Authentic Flavors. ",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025\nPeoria - WBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Shelia Marshall",
         "email": "sgp.shepop@gmail.com",
-        "fax": "None",
         "location": "1800 N Knoxville Ave. Space 2, Peoria IL 61603",
-        "locations": null,
         "name": "She-Pop Gourmet Popcorn LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -1014,19 +1575,31 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American Female",
-        "phone": "309-648-2682",
-        "website": "None",
+        "phone": "3096482682",
         "page_id": "88510",
         "url": "https://www.eprismsoft.com/business/show?seq=88510"
     },
     {
         "business_description": "Simply Complete Enterprises, LLC is a public relations firm that provides a full PR experience to our clients. We offer additional services such as business services, entity formation, assistant services, notary services, workshops, graphics, printing and more.",
-        "certification_information": "Peoria - SBA expiring on August 9th, 2025\nPeoria - MBE certification expiring on August 10th, 2025\nPeoria - WBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "August 9th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "ShaNara Harris",
         "email": "simplycomplete100@gmail.com",
-        "fax": "None",
-        "location": null,
-        "locations": "",
         "name": "Simply Complete Enterprises, LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -1041,12 +1614,16 @@
     },
     {
         "business_description": "Tate & Sons Flooring and Cleaning Services is a company committed to offering professional and detailed cleaning services for our customers. We would like to partner with you to handle your commercial and residential cleaning needs. We are a premier cleaning service that offers specialized care with affordable prices.",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Johnnie T. Jones",
         "email": "tateandsons47@gmail.com",
-        "fax": "None",
         "location": "1648 Belclare RD., Normal IL 61761",
-        "locations": null,
         "name": "Tate and Sons Flooring and Cleaning Services LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -1061,12 +1638,15 @@
     },
     {
         "business_description": "TequilaRia Wine & Spirits - Liquor Store\n3504 N Prospect Road\nPeoria IL 61603\n\nAt Tequilaria we carry a wide selection of spirits, wine, and beer in Peoria IL.  \n\nWe offer discount packages for company gifts, events, non-profits, delivery, bar tending, and much more.\n\nContact Christell for quotes or questions",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Christell Frausto",
-        "email": "Tequilariapeoria@gmail.com",
-        "fax": "None",
-        "location": null,
-        "locations": "",
+        "email": "tequilariapeoria@gmail.com",
         "name": "Tequilaria Wine & Spirits",
         "owner_african_american": false,
         "owner_asian": false,
@@ -1075,18 +1655,27 @@
         "owner_veteran": false,
         "ownership_text": "Female",
         "phone": "3093494636",
-        "website": "None",
         "page_id": "88513",
         "url": "https://www.eprismsoft.com/business/show?seq=88513"
     },
     {
         "business_description": "Law Office",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025\nPeoria - WBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Yolanda Riley",
         "email": "info@yolandarileylaw.com",
         "fax": "3096734620",
         "location": "1419 S. Folkers Ave Door 15, Peoria IL 61605",
-        "locations": null,
         "name": "The Law Offices of Yolanda J. Riley, LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -1101,12 +1690,21 @@
     },
     {
         "business_description": "The Lite At The End of the Tunnel Community Outreach, Inc. is a 501\u00a93 nonprofit based out of Peoria, IL. Our mission is to promote the wellness and positive growth of the youth. We do this by tackling not just the needs of the youth, but family and individual obstacles directly related to the youth and community. By implementing activities and programs that will assist with eliminating hardships, ensure healthy lifestyles, education readiness and community outreach, we all can see the light.\n",
-        "certification_information": "Peoria - SBA expiring on August 10th, 2025\nPeoria - MBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Derrick Dewayne Harris",
         "email": "theliteattheendofthetunnel@gmail.com",
-        "fax": "None",
         "location": "1602 S Livingston St, Peoria IL 61605",
-        "locations": null,
         "name": "The Lite At The End Of The Tunnel, Inc.",
         "owner_african_american": true,
         "owner_asian": false,
@@ -1115,18 +1713,21 @@
         "owner_veteran": false,
         "ownership_text": "African American",
         "phone": "3094279661",
-        "website": "None",
         "page_id": "88498",
         "url": "https://www.eprismsoft.com/business/show?seq=88498"
     },
     {
         "business_description": "The Queen of Squash is a restaurant and market serving healthy, fast casual food. It specializes in GF, Vegan, hole30 and diabetic friendly food options. ",
-        "certification_information": "Peoria - WBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Heather Wolbeck",
         "email": "thequeenofsquash@gmail.com",
-        "fax": "None",
         "location": "1108 West Glen Avenue, Peoria IL 61614",
-        "locations": null,
         "name": "The Queen of Squash",
         "owner_african_american": false,
         "owner_asian": false,
@@ -1134,39 +1735,60 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "Female",
-        "phone": "309-670-0948",
+        "phone": "3096700948",
         "website": "http://www.thequeenofsquash.com",
         "page_id": "88503",
         "url": "https://www.eprismsoft.com/business/show?seq=88503"
     },
     {
         "business_description": "Eyelash extension service and product sales. ",
-        "certification_information": "Peoria - SBA expiring on September 28th, 2025\nPeoria - MBE certification expiring on September 29th, 2025\nPeoria - WBE certification expiring on September 29th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "September 28th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "September 29th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "September 29th, 2025"
+            }
+        ],
         "contact": "Sharry Binion",
         "email": "ssbinion31@yahoo.com",
-        "fax": "None",
         "location": "1518 W Margaret Back, Peoria IL 61604",
-        "locations": null,
         "name": "Uniquely Flawless LLC",
-        "owner_african_american": false,
-        "owner_asian": false,
-        "owner_female": false,
-        "owner_hispanic": false,
-        "owner_veteran": false,
-        "ownership_text": "",
         "phone": "3094032516",
-        "website": "None",
         "page_id": "88631",
         "url": "https://www.eprismsoft.com/business/show?seq=88631"
     },
     {
         "business_description": "Upgraded MindsetZ offers supportive programs and resources for women ready to work towards establishing personal growth habits, with transformational tools to successfully help them elevate their personal and entrepreneurial goals.",
-        "certification_information": "Peoria - SBA expiring on August 11th, 2025\nPeoria - MBE certification expiring on August 19th, 2025\nPeoria - WBE certification expiring on September 1st, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "August 11th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 19th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "September 1st, 2025"
+            }
+        ],
         "contact": "Kisha Woods",
         "email": "coachkaywds@upgradedmindsetz.life",
-        "fax": "None",
         "location": "2104 W Moss Ave Suite 101, West Peoria IL 61604",
-        "locations": null,
         "name": "Upgraded MindsetZ LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -1174,19 +1796,28 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American Female",
-        "phone": "773-340-2823",
+        "phone": "7733402823",
         "website": "http://www.upgradedmindsetz.life",
         "page_id": "88480",
         "url": "https://www.eprismsoft.com/business/show?seq=88480"
     },
     {
         "business_description": "We sale urban streetwear and art.  With the target audience between 18 and 35. ",
-        "certification_information": "Peoria - MBE certification expiring on August 18th, 2025\nPeoria - WBE certification expiring on August 23rd, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 18th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 23rd, 2025"
+            }
+        ],
         "contact": "Megan M Riley",
         "email": "visionsbyflavis95@gmail.com",
-        "fax": "None",
         "location": "806 E Seneca PL, Peoria IL 61603",
-        "locations": null,
         "name": "Visions By Flavis, LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -1201,12 +1832,26 @@
     },
     {
         "business_description": "We are a candle creating and fragrance business. We specialize in making any room smell amazing with essential oils to decompress, energize, calm and more. ",
-        "certification_information": "Peoria - SBA expiring on August 10th, 2025\nPeoria - MBE certification expiring on August 18th, 2025\nPeoria - WBE certification expiring on August 23rd, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "SBA",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 18th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 23rd, 2025"
+            }
+        ],
         "contact": "Brittney Taylor",
-        "email": "Vmariecreations1@gmail.com",
-        "fax": "None",
+        "email": "vmariecreations1@gmail.com",
         "location": "2021 W Cashman Ct, Peoria IL 61604",
-        "locations": null,
         "name": "V. Marie Creations",
         "owner_african_american": true,
         "owner_asian": false,
@@ -1214,19 +1859,22 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American Female",
-        "phone": "414-909-0072",
-        "website": "None",
+        "phone": "4149090072",
         "page_id": "88539",
         "url": "https://www.eprismsoft.com/business/show?seq=88539"
     },
     {
         "business_description": "Environmental training and instructor of lead abatement. Certified by EPA and IL Department of Public Health. ",
-        "certification_information": "Peoria - MBE certification expiring on March 9th, 2026",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "March 9th, 2026"
+            }
+        ],
         "contact": "D Doc McClellon",
         "email": "wepac01@yahoo.com",
-        "fax": "None",
         "location": "3526 N. California Ave A, Peoria IL 61603",
-        "locations": null,
         "name": "Westside Environmental Plan of Action Committee",
         "owner_african_american": true,
         "owner_asian": false,
@@ -1234,19 +1882,22 @@
         "owner_hispanic": false,
         "owner_veteran": true,
         "ownership_text": "African American Veteran",
-        "phone": "309-472-0452",
-        "website": "None",
+        "phone": "3094720452",
         "page_id": "88721",
         "url": "https://www.eprismsoft.com/business/show?seq=88721"
     },
     {
         "business_description": "Heating and cooling services. We install air conditioners.",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Dallas Williams",
         "email": "dallaswilliams73@gmail.com",
-        "fax": "None",
         "location": "2825 Humboldt, Peoria IL 61605",
-        "locations": null,
         "name": "Will Heating & Cooling LLC",
         "owner_african_american": true,
         "owner_asian": false,
@@ -1254,19 +1905,27 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American",
-        "phone": "309-839-5280",
-        "website": "None",
+        "phone": "3098395280",
         "page_id": "88534",
         "url": "https://www.eprismsoft.com/business/show?seq=88534"
     },
     {
         "business_description": "Recreational and Sports\n",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025\nPeoria - WBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Lynnette Lee",
         "email": "worldonwheels1@yahoo.com",
-        "fax": "None",
         "location": "located along Peoria's RiverFront, P. O. Box 6277, Peoria IL 61601",
-        "locations": null,
         "name": "World On Wheels Segway Tours and Bike Rides",
         "owner_african_american": true,
         "owner_asian": false,
@@ -1274,19 +1933,28 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American Female",
-        "phone": "(309) 453-0916",
+        "phone": "3094530916",
         "website": "http://worldonwheelspeoria.com",
         "page_id": "1144",
         "url": "https://www.eprismsoft.com/business/show?seq=1144"
     },
     {
         "business_description": "A non-profit ministry to reach the unreachable and bring hope to the homeless. Your Lives Matter Outreach Ministry works on the frontlines assist in meeting basic needs with referrals to resources in the community.",
-        "certification_information": "Peoria - MBE certification expiring on August 10th, 2025\nPeoria - WBE certification expiring on August 10th, 2025",
+        "certification_information": [
+            {
+                "location": "Peoria",
+                "name": "MBE certification",
+                "expiration": "August 10th, 2025"
+            },
+            {
+                "location": "Peoria",
+                "name": "WBE certification",
+                "expiration": "August 10th, 2025"
+            }
+        ],
         "contact": "Ethel Elizabeth Pates",
         "email": "ethelpates7@gmail.com",
-        "fax": "None",
         "location": "1007 E Melbourne Avenue, Peoria IL 61603",
-        "locations": null,
         "name": "Your Lives Matter Outreach Ministry",
         "owner_african_american": true,
         "owner_asian": false,
@@ -1294,7 +1962,7 @@
         "owner_hispanic": false,
         "owner_veteran": false,
         "ownership_text": "African American Female",
-        "phone": "309-430-9880",
+        "phone": "3094309880",
         "website": "http://www.yourlivesmatteroutreachministry.webador.com",
         "page_id": "88520",
         "url": "https://www.eprismsoft.com/business/show?seq=88520"

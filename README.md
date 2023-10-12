@@ -11,8 +11,8 @@ Google My Map (using most recent scrape results): https://www.google.com/maps/d/
 1. Open a command line (Mac: Terminal, Windows: [git bash](https://gitforwindows.org/))
 2. Clone this repo & Set it as working directory
     ```bash
-    > git clone https://github.com/bbrewington/peoria-dei-data
-    > cd peoria-dei-data
+    > git clone https://github.com/bbrewington/peoria-il-equity-data
+    > cd peoria-il-equity-data
     ```
 3. Run the setup script.  This will create a virtual environment for your project and install the packages listed in `requirements.txt`
    ```bash

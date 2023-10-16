@@ -1,29 +1,47 @@
+import json
+import os
+import re
+from urllib.parse import urlparse
+
 import pandas as pd
 import requests
-import re
+import usaddress
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse
-import os
-import json
 
 
-def parse_certification_information(records):
+def cleanup_location(r):
+    location = r['location']
+    if location is not None:
+        try:
+            return usaddress.parse(location)
+        except:
+            print(f'Error parsing location {location}')
+
+
+def cleanup_certifications(r):
+    all_certs = []
+    certs = r['certification_information'].split('\n')
+    for cert in certs:
+        cert_parts = cert.split(' - ', 1)
+        cert_location = cert_parts[0]
+        cert_details = cert_parts[1].split(' expiring on ')
+        cert_name = cert_details[0]
+        cert_expiration = cert_details[1]
+        cert_info = {
+            "location": cert_location,
+            "name": cert_name,
+            "expiration": cert_expiration,
+        }
+        all_certs.append(cert_info)
+    return all_certs
+
+
+def cleanup_records(records):
     for r in records:
-        all_certs = []
-        certs = r['certification_information'].split('\n')
-        for cert in certs:
-            cert_parts = cert.split(' - ', 1)
-            cert_location = cert_parts[0]
-            cert_details = cert_parts[1].split(' expiring on ')
-            cert_name = cert_details[0]
-            cert_expiration = cert_details[1]
-            cert_info = {
-                "location": cert_location,
-                "name": cert_name,
-                "expiration": cert_expiration,
-            }
-            all_certs.append(cert_info)
-        r['certification_information'] = all_certs
+        # parse certification information
+        r['certification_information'] = cleanup_certifications(r)
+        # parse location information
+        r['location'] = cleanup_location(r)
 
 
 def parse_business_information(fieldset_node):
@@ -175,8 +193,9 @@ if __name__ == '__main__':
     json_str = filtered_df.to_json(orient='records')
     # parse the string as a JSON object
     parsed_json = json.loads(json_str)
-    # reparse the certification information
-    parse_certification_information(parsed_json)
+    # reparse the certification and location information
+    cleanup_records(parsed_json)
+    # reparse the location information
     # pop keys with no value from the JSON object
     for item in parsed_json:
         keys_to_exclude = [key for key, value in item.items() if value is None]
